@@ -1,0 +1,13 @@
+
+programa
+{
+ funcao inicio()
+ {
+  escreva("Digite seu destino")
+  leia(destino)
+
+  escreva("Encontramos um carro pra você! Placa:XXX-0000")
+  escreva("Você chegará em "+destino+" em 30 minutos")
+ }
+}
+//esse codigo seria para localizar o carro que o cliente solicitou no aplicativo , para o passeio.
